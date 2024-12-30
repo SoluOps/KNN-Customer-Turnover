@@ -31,7 +31,7 @@ The model demonstrates the ability to predict customer churn with approximately 
 - Approximately 20% of customers churned in the dataset
 - The model achieved better performance when using both numerical and categorical features (77% accuracy) compared to using categorical features alone (73% accuracy), showing a 4% improvement in prediction accuracy
 
-## Technologies Used
+## Technologies
 
 - Python
 - Jupyter Notebook
